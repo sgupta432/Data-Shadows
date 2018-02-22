@@ -1,3 +1,15 @@
+"face3.py" is training the model to generate the model weights which are in "model.h5"
+"model.py" contains the model used for training
+"face_detect.py" is detecting the face from the webcam
+"webcam.py" is capturing the face from the webcam and outputting the detected emotion 
+
+
+
+
+
+
+
+fer2013.csv (not present in the repo) is used for training the model. 
 If you use this dataset in your research work, please cite
 
 "Challenges in Representation Learning: A report on three machine learning
